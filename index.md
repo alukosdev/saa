@@ -7,10 +7,6 @@ label: Welcome
 This is a community project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" } or becoming an editor. ❤️
 :::
 
-!!!warning
-We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. We appreciate your patience and understanding as we work to apply these updates.
-!!!
-
 # Welcome
 
 !!!
@@ -19,7 +15,7 @@ Information contained within these notes is copyrighted. Sources of copyrighted 
 
 ## Purpose
 
-These notes have been created for the sole purpose of aggregating accurate information from reliable sources to facilitate studying for the AWS SAA-C03 examination and have been made publicly available and open source.
+These notes were created for the sole purpose of aggregating accurate information from reliable sources to facilitate studying for the AWS Certified Solutions Architect - Associate (SAA-C03) exam and have been shared publicly with the community.
 
 ## Credit
 
