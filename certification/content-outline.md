@@ -2,9 +2,9 @@
 The following Exam Outline is derived from the [AWS Certified Solutions Architected (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
 :::
 
-# Exam Outline
+# Content Outline
 
-## Examination Weights
+## Exam Weights
 
 Domains | Weight
 :--- | :---
