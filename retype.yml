@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: saa.alukos.com
+generator:
+  trailingSlash: true
+branding:
+  logo: /static/aws-saa.png
+links:
+  - text: Donate
+    icon: heart-fill
+    link: https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD
+    target: blank
+meta:
+  title: " | SAA by Alukos"
+poweredByRetype: false
