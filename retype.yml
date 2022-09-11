@@ -4,7 +4,7 @@ url: saa.alukos.com
 generator:
   trailingSlash: true
 branding:
-  logo: /static/aws-logo-white.png
+  logo: /static/aws-saa.png
 links:
   - text: Donate
     icon: heart-fill
