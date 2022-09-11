@@ -6,6 +6,9 @@ icon: alert
 This page is currently under revision.
 !!!
 
+!!!
+The [AWS Documentation Overview](https://aws.amazon.com/documentation-overview/){ target="_blank" } is an excellent reference for identifying and determing the official name of Amazon/AWS services.
+
 # Acronyms, Abbreviations, and Initialisms
 
 !!!
@@ -14,3 +17,18 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 
 Short Form | Full Form { class="compact" }
 :--- | :---
+ACM | AWS Certificate Manager
+EBS | Elastic Block Store
+EC2 | Elastic Compute Cloud
+ECR | Elastic Container Registry
+ECS | Elastic Container Service
+EFS | Elastic File System
+EKS | Elastic Kubernetes Service
+ELB | Elastic Load Balancing
+KMS | Key Management Service
+RDS | Relational Database Service
+S3 | Simple Storage Service
+SES | Simple Email Service
+SNS | Simple Notification Service
+SQS | Simple Queue Service
+VPC | Virtual Private Cloud

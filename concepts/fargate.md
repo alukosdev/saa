@@ -1,0 +1,5 @@
+---
+label: Fargate
+---
+
+# AWS Fargate
