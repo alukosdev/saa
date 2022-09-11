@@ -8,22 +8,33 @@ label: Domain 2
 
 Knowledge of:
 
-- API creation and management (for example, Amazon API Gateway, REST API)
-- AWS managed services with appropriate use cases (for example, AWS Transfer Family, Amazon Simple Queue Service [Amazon SQS], Secrets Manager)
+- API creation and management
+  - [Amazon API Gateway](/products/api-gateway.md)
+  - REST API
+- AWS managed services with appropriate use cases
+  - AWS Transfer Family
+  - [Amazon Simple Queue Service [Amazon SQS]](/products/sqs.md)
+  - Secrets Manager
 - Caching strategies
 - Design principles for microservices (for example, stateless workloads compared with stateful workloads)
 - Event-driven architectures
 - Horizontal scaling and vertical scaling
 - How to appropriately use edge accelerators (for example, content delivery network [CDN])
 - How to migrate applications into containers
-- Load balancing concepts (for example, Application Load Balancer)
+- Load balancing concepts
+  - Application Load Balancer
 - Multi-tier architectures
 - Queuing and messaging concepts (for example, publish/subscribe)
-- Serverless technologies and patterns (for example, AWS Fargate, AWS Lambda)
+- Serverless technologies and patterns
+  - [AWS Fargate](/products/fargate.md)
+  - [AWS Lambda](/products/lambda.md)
 - Storage types with associated characteristics (for example, object, file, block)
-- The orchestration of containers (for example, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS])
+- The orchestration of containers
+  - [Amazon Elastic Container Service [Amazon ECS]](/products/ecs.md)
+  - [Amazon Elastic Kubernetes Service [Amazon EKS]](/products/eks.md)
 - When to use read replicas
-- Workflow orchestration (for example, AWS Step Functions)
+- Workflow orchestration
+  - AWS Step Functions
 
 Skills in:
 
@@ -39,18 +50,26 @@ Skills in:
 
 Knowledge of:
 
-- AWS global infrastructure (for example, Availability Zones, AWS Regions, Amazon Route 53)
-- AWS managed services with appropriate use cases (for example, Amazon Comprehend, Amazon Polly)
+- AWS global infrastructure
+  - Availability Zones
+  - AWS Regions
+  - [Amazon Route 53](/products/route53.md)
+- AWS managed services with appropriate use cases
+  - Amazon Comprehend
+  - Amazon Polly
 - Basic networking concepts (for example, route tables)
 - Disaster recovery (DR) strategies (for example, backup and restore, pilot light, warm standby, active-active failover, recovery point objective [RPO], recovery time objective [RTO])
 - Distributed design patterns
 - Failover strategies
 - Immutable infrastructure
-- Load balancing concepts (for example, Application Load Balancer)
-- Proxy concepts (for example, Amazon RDS Proxy)
+- Load balancing concepts
+  - Application Load Balancer
+- Proxy concepts
+  - Amazon RDS Proxy
 - Service quotas and throttling (for example, how to configure the service quotas for a workload in a standby environment)
 - Storage options and characteristics (for example, durability, replication)
-- Workload visibility (for example, AWS X-Ray)
+- Workload visibility
+  - AWS X-Ray
 
 Skills in:
 
