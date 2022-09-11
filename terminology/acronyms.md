@@ -1,11 +1,3 @@
----
-icon: alert
----
-
-!!!warning
-This page is currently under revision.
-!!!
-
 !!!
 The [AWS Documentation Overview](https://aws.amazon.com/documentation-overview/){ target="_blank" } is an excellent reference for identifying and determing the official name of Amazon/AWS services.
 !!!
