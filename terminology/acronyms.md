@@ -18,6 +18,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 Short Form | Full Form { class="compact" }
 :--- | :---
 ACM | AWS Certificate Manager
+DNS | Domain Name System
 EBS | Elastic Block Store
 EC2 | Elastic Compute Cloud
 ECR | Elastic Container Registry
@@ -26,6 +27,7 @@ EFS | Elastic File System
 EKS | Elastic Kubernetes Service
 ELB | Elastic Load Balancing
 KMS | Key Management Service
+NAT | Network Address Translation
 RDS | Relational Database Service
 S3 | Simple Storage Service
 SES | Simple Email Service
