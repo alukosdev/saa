@@ -10,8 +10,15 @@ Knowledge of:
 
 - Access options (for example, an S3 bucket with Requester Pays object storage)
 - AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, AWS Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
-- AWS storage services with appropriate use cases (for example, Amazon FSx, Amazon EFS, Amazon S3, Amazon EBS)
+- AWS cost management tools with appropriate use cases
+  - AWS Cost Explorer
+  - AWS Budgets
+  - AWS Cost and Usage Report
+- AWS storage services with appropriate use cases
+  - Amazon FSx
+  - [Amazon EFS](/products/efs.md)
+  - [Amazon S3](/products/s3.md)
+  - [Amazon EBS](/products/ebs.md)
 - Backup strategies
 - Block storage options (for example, hard disk drive [HDD] volume types, solid state drive [SSD] volume types)
 - Data lifecycles
@@ -38,11 +45,21 @@ Skills in:
 Knowledge of:
 
 - AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
-- AWS global infrastructure (for example, Availability Zones, AWS Regions)
-- AWS purchasing options (for example, Spot Instances, Reserved Instances, Savings Plans)
+- AWS cost management tools with appropriate use cases
+  - Cost Explorer
+  - AWS Budgets
+  - AWS Cost and Usage Report
+- AWS global infrastructure
+  - Availability Zones
+  - AWS Regions
+- AWS purchasing options
+  - Spot Instances
+  - Reserved Instances
+  - Savings Plans
 - Distributed compute strategies (for example, edge processing)
-- Hybrid compute options (for example, AWS Outposts, AWS Snowball Edge)
+- Hybrid compute options
+  - AWS Outposts
+  - AWS Snowball Edge
 - Instance types, families, and sizes (for example, memory optimized, compute optimized, virtualization)
 - Optimization of compute utilization (for example, containers, serverless computing, microservices)
 - Scaling strategies (for example, auto scaling, hibernation)
@@ -51,7 +68,10 @@ Skills in:
 
 - Determining an appropriate load balancing strategy (for example, Application Load Balancer [Layer 7] compared with Network Load Balancer [Layer 4] compared with Gateway Load Balancer)
 - Determining appropriate scaling methods and strategies for elastic workloads (for example, horizontal compared with vertical, EC2 hibernation)
-- Determining cost-effective AWS compute services with appropriate use cases (for example, Lambda, Amazon EC2, Fargate)
+- Determining cost-effective AWS compute services with appropriate use cases
+  - [Lambda](/products/lambda.md)
+  - [Amazon EC2](/products/ec2.md)
+  - [Fargate](/products/fargate.md)
 - Determining the required availability for different classes of workloads (for example, production workloads, non-production workloads)
 - Selecting the appropriate instance family for a workload
 - Selecting the appropriate instance size for a workload
@@ -61,7 +81,10 @@ Skills in:
 Knowledge of:
 
 - AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
+- AWS cost management tools with appropriate use cases
+  - Cost Explorer
+  - AWS Budgets
+  - AWS Cost and Usage Report
 - Caching strategies
 - Data retention policies
 - Database capacity planning (for example, capacity units)
@@ -83,11 +106,17 @@ Skills in:
 Knowledge of:
 
 - AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
-- Load balancing concepts (for example, Application Load Balancer)
+- AWS cost management tools with appropriate use cases
+  - Cost Explorer
+  - AWS Budgets
+  - AWS Cost and Usage Report
+- Load balancing concepts
+  - Application Load Balancer
 - NAT gateways (for example, NAT instance costs compared with NAT gateway costs)
 - Network connectivity (for example, private lines, dedicated lines, VPNs)
-- Network routing, topology, and peering (for example, AWS Transit Gateway, VPC peering)
+- Network routing, topology, and peering
+  - AWS Transit Gateway
+  - VPC peering
 - Network services with appropriate use cases (for example, DNS)
 
 Skills in:
