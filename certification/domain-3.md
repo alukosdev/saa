@@ -9,7 +9,10 @@ label: Domain 3
 Knowledge of:
 
 - Hybrid storage solutions to meet business requirements
-- Storage services with appropriate use cases (for example, Amazon S3, Amazon Elastic File System [Amazon EFS], Amazon Elastic Block Store [Amazon EBS])
+- Storage services with appropriate use cases
+  - [Amazon S3](/products/s3.md)
+  - [Amazon Elastic File System [Amazon EFS]](/products/efs.md)
+  - [Amazon Elastic Block Store [Amazon EBS]](/products/ebs.md)
 - Storage types with associated characteristics (for example, object, file, block)
 
 Skills in:
@@ -21,12 +24,21 @@ Skills in:
 
 Knowledge of:
 
-- AWS compute services with appropriate use cases (for example, AWS Batch, Amazon EMR, Fargate)
+- AWS compute services with appropriate use cases
+  - AWS Batch
+  - Amazon EMR
+  - [Fargate](/products/fargate.md)
 - Distributed computing concepts supported by AWS global infrastructure and edge services
 - Queuing and messaging concepts (for example, publish/subscribe)
-- Scalability capabilities with appropriate use cases (for example, Amazon EC2 Auto Scaling, AWS Auto Scaling)
-- Serverless technologies and patterns (for example, Lambda, Fargate)
-- The orchestration of containers (for example, Amazon ECS, Amazon EKS)
+- Scalability capabilities with appropriate use cases
+  - Amazon EC2 Auto Scaling
+  - AWS Auto Scaling
+- Serverless technologies and patterns
+  - [Lambda](/products/lambda.md)
+  - [Fargate](/products/fargate.md)
+- The orchestration of containers
+  - [Amazon ECS](/products/ecs.md)
+  - [Amazon EKS](/products/eks.md)
 
 Skills in:
 
@@ -39,8 +51,11 @@ Skills in:
 
 Knowledge of:
 
-- AWS global infrastructure (for example, Availability Zones, AWS Regions)
-- Caching strategies and services (for example, Amazon ElastiCache)
+- AWS global infrastructure
+  - Availability Zones
+  - AWS Regions
+- Caching strategies and services
+  - Amazon ElastiCache
 - Data access patterns (for example, read-intensive compared with write-intensive)
 - Database capacity planning (for example, capacity units, instance types, Provisioned IOPS)
 - Database connections and proxies
@@ -60,10 +75,16 @@ Skills in:
 
 Knowledge of:
 
-- Edge networking services with appropriate use cases (for example, Amazon CloudFront, AWS Global Accelerator)
+- Edge networking services with appropriate use cases
+  - [Amazon CloudFront](/products/cloudfront.md)
+  - AWS Global Accelerator
 - How to design network architecture (for example, subnet tiers, routing, IP addressing)
-- Load balancing concepts (for example, Application Load Balancer)
-- Network connection options (for example, AWS VPN, Direct Connect, AWS PrivateLink)
+- Load balancing concepts
+  - Application Load Balancer
+- Network connection options
+  - AWS VPN
+  - [Direct Connect](/products/direct-connect.md)
+  - AWS PrivateLink
 
 Skills in:
 
@@ -76,13 +97,20 @@ Skills in:
 
 Knowledge of:
 
-- Data analytics and visualization services with appropriate use cases (for example, Amazon Athena, AWS Lake Formation, Amazon QuickSight)
+- Data analytics and visualization services with appropriate use cases
+  - Amazon Athena
+  - AWS Lake Formation
+  - Amazon QuickSight
 - Data ingestion patterns (for example, frequency)
-- Data transfer services with appropriate use cases (for example, AWS DataSync, AWS Storage Gateway)
-- Data transformation services with appropriate use cases (for example, AWS Glue)
+- Data transfer services with appropriate use cases
+  - AWS DataSync
+  - AWS Storage Gateway
+- Data transformation services with appropriate use cases
+  - AWS Glue
 - Secure access to ingestion access points
 - Sizes and speeds needed to meet business requirements
-- Streaming data services with appropriate use cases (for example, Amazon Kinesis)
+- Streaming data services with appropriate use cases
+  - [Amazon Kinesis](/products/kinesis.md)
 
 Skills in:
 
@@ -90,7 +118,8 @@ Skills in:
 - Designing data streaming architectures
 - Designing data transfer solutions
 - Implementing visualization strategies
-- Selecting appropriate compute options for data processing (for example, Amazon EMR)
+- Selecting appropriate compute options for data processing
+  - Amazon EMR
 - Selecting appropriate configurations for ingestion
 - Transforming data between formats (for example, .csv to .parquet)
 
