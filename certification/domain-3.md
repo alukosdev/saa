@@ -2,6 +2,10 @@
 label: Domain 3
 ---
 
+:::banner
+The following domain objectives are derived from the [AWS Certified Solutions Architect (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
+:::
+
 # Domain 3: Design High-Performing Architectures
 
 ## Task Statement 1: Determine high-performing and/or scalable storage solutions.
@@ -122,7 +126,3 @@ Skills in:
   - Amazon EMR
 - Selecting appropriate configurations for ingestion
 - Transforming data between formats (for example, .csv to .parquet)
-
-## Sources
-
-- https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf

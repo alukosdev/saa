@@ -2,6 +2,10 @@
 label: Domain 2
 ---
 
+:::banner
+The following domain objectives are derived from the [AWS Certified Solutions Architect (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
+:::
+
 # Domain 2: Design Resilient Architectures
 
 ## Task Statement 1: Design scalable and loosely coupled architectures.
@@ -81,7 +85,3 @@ Skills in:
 - Selecting an appropriate DR strategy to meet business requirements
 - Using AWS services that improve the reliability of legacy applications and applications not built for the cloud (for example, when application changes are not possible)
 - Using purpose-built AWS services for workloads
-
-## Sources
-
-- https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf

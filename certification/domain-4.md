@@ -2,6 +2,10 @@
 label: Domain 4
 ---
 
+:::banner
+The following domain objectives are derived from the [AWS Certified Solutions Architect (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
+:::
+
 # Domain 4: Design Cost-Optimized Architectures
 
 ## Task Statement 1: Design cost-optimized storage solutions.
@@ -128,7 +132,3 @@ Skills in:
 - Reviewing existing workloads for network optimizations
 - Selecting an appropriate throttling strategy
 - Selecting the appropriate bandwidth allocation for a network device (for example, a single VPN compared with multiple VPNs, Direct Connect speed)
-
-## Sources
-
-- https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf

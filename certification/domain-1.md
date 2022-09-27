@@ -2,6 +2,10 @@
 label: Domain 1
 ---
 
+:::banner
+The following domain objectives are derived from the [AWS Certified Solutions Architect (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
+:::
+
 # Domain 1: Design Secure Architectures
 
 ## Task Statement 1: Design secure access to AWS resources.
@@ -77,7 +81,3 @@ Skills in:
 - Implementing data backups and replications
 - Implementing policies for data access, lifecycle, and protection
 - Rotating encryption keys and renewing certificates
-
-## Sources
-
-- https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
