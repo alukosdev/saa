@@ -3,7 +3,7 @@ label: Domain 1
 ---
 
 :::banner
-The following domain objectives are derived from the [AWS Certified Solutions Architect (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
+The following domain objectives are derived from the [AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf){ target="_blank" }.
 :::
 
 # Domain 1: Design Secure Architectures
