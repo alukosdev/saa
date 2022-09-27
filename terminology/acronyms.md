@@ -1,5 +1,5 @@
 !!!
-The [AWS Documentation Overview](https://aws.amazon.com/documentation-overview/){ target="_blank" } is an excellent reference for identifying and determing the official name of Amazon/AWS services.
+The [AWS Documentation Overview](https://aws.amazon.com/documentation-overview/){ target="_blank" } is an excellent reference for identifying the official name of Amazon/AWS services.
 !!!
 
 # Acronyms, Abbreviations, and Initialisms
