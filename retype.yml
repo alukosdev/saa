@@ -7,8 +7,10 @@ branding:
   logo: /static/aws-saa.png
 links:
   - text: Donate
-    icon: heart-fill
-    link: https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD
+    link: https://square.link/u/bXGBgSf6
+    target: blank
+  - text: Benefactors
+    link: benefactors.md
     target: blank
 meta:
   title: " | SAA by Alukos"
