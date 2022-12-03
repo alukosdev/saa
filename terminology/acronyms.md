@@ -1,3 +1,7 @@
+---
+label: Acronyms
+---
+
 # Acronyms, Abbreviations, and Initialisms
 
 !!!
